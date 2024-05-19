@@ -1,4 +1,4 @@
-import mongoose, { Schema, Document } from 'mongoose';
+import mongoose, { Schema, Document, ObjectId } from 'mongoose';
 import validator from 'validator';
 import bcrypt from 'bcrypt';
 import { Request, Response, NextFunction } from 'express';
