@@ -1,0 +1,8 @@
+test/**/*.js
+node_modules
+coverage
+uploads
+.vscode
+dist
+logs
+.env
